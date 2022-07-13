@@ -1,0 +1,14 @@
+<Configuration>
+
+	<MappedFolders>
+		<MappedFolder>
+			<HostFolder>C:\SANDBOX</HostFolder>
+			<SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\SANDBOX</SandboxFolder>
+			<ReadOnly>false</ReadOnly>
+		</MappedFolder>
+	</MappedFolders>
+	<LogonCommand>
+		<Command>c:\users\WDAGutilityAccount\Desktop\SANDBOX\jre_install.cmd</Command>
+	</LogonCommand>
+
+</Configuration>
